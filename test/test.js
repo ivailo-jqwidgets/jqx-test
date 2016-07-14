@@ -7,7 +7,7 @@ describe("A suite", function() {
         expect($(mduri).text()).toBe('123');
     });
 
-  /*  it('Should exist', function() {
+    it('Should exist', function() {
         expect(true).toBe(true);
-    });*/
+    });
 });
